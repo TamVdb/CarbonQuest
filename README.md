@@ -20,7 +20,7 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 ![Imgur](https://tinyurl.com/45rrddxc)
 ![Imgur](https://tinyurl.com/2yemrhrp)
 
-## Installation backendNode
+## Installation
 ### Backend
 Installer les dépendances
 ```
@@ -61,30 +61,6 @@ npm run dev
 🔓 Se connecter <br />
 🎮 Jouer
 
-## Installation backendPHP
-### Backend
-Installer la base de données en suivant les instructions du fichier `info.md` du dossier `/backend`
-
-Lancer le serveur
-```
-php -S localhost:8000
-```
-
-
-### Frontend
-Installer les dépendances
-```
-npm i
-```
-
-Lancer le serveur
-```
-npm run dev
-```
-
-## Tester le jeu
-👩‍💻 Pseudo : User <br />
-🔒 Mot de passe : password
 
  ## Dépendances
 * Axios
