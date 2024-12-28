@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+frontend/node_modules/
+backendNode/node_modules/
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+backendPHP/.env
+backendPHP/.env.local
+backendPHP/.env.*.local
+backendNode/.env
+backendNode/.env.local
+backendNode/.env.*.local
+
+# Build output
+frontend/dist/
+backend/dist/
+
+# VS CODE
+.vscode/*
+*.code-workspace
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Misc
+.DS_Store
+desktop.ini
+
+# Vercel
+*vercel.json
