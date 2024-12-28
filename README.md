@@ -21,6 +21,12 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 ![Imgur](https://tinyurl.com/yk5ppby2)
 ![Imgur](https://tinyurl.com/2p8na978)
 
+### Tester le jeu en ligne
+👩‍💻 Enregistrer un nouvel utilisateur <br />
+🔓 Se connecter <br />
+🎮 Jouer
+🤗 Enjoy 
+
 ## Installation
 ### Backend
 Installer les dépendances
