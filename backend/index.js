@@ -146,7 +146,7 @@ app.patch("/score", async (req, res) => {
    }
 });
 
-// GET /oldScores?username=Amandine
+// GET /oldScores
 
 app.get("/oldScores", async (req, res) => {
    const { username } = req.query;
