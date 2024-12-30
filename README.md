@@ -12,8 +12,14 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 
 💪 Parviendrez-vous à répondre correctement à toutes les questions ?
 
-> Le projet initial contenait une partie backend en PHP avec une base de données MySQL. <br />
-> Afin de pouvoir mettre le projet en ligne à moindre coût, nous avons développé un backend en Node.js et utilisé une base de données MongoDB. C'est cette version qui est présentée ici et disponible en ligne.
+## 🌐 Backend et Base de Données
+
+Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développé un backend en Node.js et utilisé une base de données MongoDB.
+
+💻 **Backend initial** : PHP avec une base de données MySQL (administrée via PHPMyAdmin).  
+🌍 **Backend actuel** : Node.js avec une base de données MongoDB.  
+
+⚡ _C'est cette version qui est présentée ici et disponible en ligne._
 
 
 ## Visuals
