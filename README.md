@@ -23,7 +23,14 @@ Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développ�
 ⚡ _C'est cette version qui est présentée ici et disponible en ligne._
 
 &nbsp;
-## Visuals
+## 👾 Tester le jeu en ligne
+👩‍💻 Enregistrer un nouvel utilisateur <br />
+🔓 Se connecter <br />
+🎮 Jouer <br />
+🤗 Enjoy 
+
+&nbsp;
+## 👀 Visuels
 
 ![Imgur](https://tinyurl.com/3wzukf3v)
 ![Imgur](https://tinyurl.com/2s4zdmec)
@@ -31,14 +38,9 @@ Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développ�
 ![Imgur](https://tinyurl.com/yk5ppby2)
 ![Imgur](https://tinyurl.com/2p8na978)
 
-### Tester le jeu en ligne
-👩‍💻 Enregistrer un nouvel utilisateur <br />
-🔓 Se connecter <br />
-🎮 Jouer <br />
-🤗 Enjoy 
 
 &nbsp;
-## Installation
+## ⚙️ Installation
 ### Backend
 Installer les dépendances
 ```
@@ -80,7 +82,7 @@ npm run dev
 🎮 Jouer
 
 &nbsp;
-## Dépendances
+## 🔗 Dépendances
 * Axios
 * React Icons
 * React Router Dom
