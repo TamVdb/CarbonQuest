@@ -12,6 +12,7 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 
 💪 Parviendrez-vous à répondre correctement à toutes les questions ?
 
+&nbsp;
 ## 🌐 Backend et Base de Données
 
 Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développé un backend en Node.js et utilisé une base de données MongoDB.
@@ -21,7 +22,7 @@ Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développ�
 
 ⚡ _C'est cette version qui est présentée ici et disponible en ligne._
 
-
+&nbsp;
 ## Visuals
 
 ![Imgur](https://tinyurl.com/3wzukf3v)
@@ -36,6 +37,7 @@ Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développ�
 🎮 Jouer <br />
 🤗 Enjoy 
 
+&nbsp;
 ## Installation
 ### Backend
 Installer les dépendances
@@ -77,8 +79,8 @@ npm run dev
 🔓 Se connecter <br />
 🎮 Jouer
 
-
- ## Dépendances
+&nbsp;
+## Dépendances
 * Axios
 * React Icons
 * React Router Dom
