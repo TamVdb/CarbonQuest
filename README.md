@@ -83,17 +83,27 @@ npm run dev
 
 &nbsp;
 ## 🔗 Dépendances
-* Axios
-* React Icons
-* React Router Dom
-* React Unity Webgl
-* Zod
-* React Hook Form
-* Tailwind
-* Vite
-* Express
-* MongoDB
-* Mongoose
-* Nodemon
-* Dotenv
-* Cors
+### Backend
+* Node.js (22.13.0)
+* npm
+* Express (4.21.2)
+* MongoDB (6.12.0)
+* Mongoose (8.9.2)
+* Nodemon (3.1.9)
+* Dotenv (16.4.7)
+* Cors (2.8.5)
+
+### Frontend
+* Node.js (22.13.0)
+* npm
+* Vite (5.4.9)
+* React (18.3.1)
+* Tailwind (3.4.14)
+* Axios (1.7.7)
+* React Icons (5.4.0)
+* React Router Dom (6.27.0)
+* React Unity Webgl (9.6.0)
+* Zod (3.23.8)
+* React Hook Form (7.53.1)
+
+
